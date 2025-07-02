@@ -48,3 +48,4 @@ A beautiful, minimal todo app for your new tab. Organize your tasks with style, 
 
 **Enjoy your productive, beautiful new tab!**
 # New-Tab-Todo-Extension
+# New-Tab-Todo-Extension
